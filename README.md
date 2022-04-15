@@ -5,22 +5,23 @@ OCR to detect and recognize dot-matrix text written with inkjet-printed on medic
 
 Images example:
 <p float="left">
+ 
  <img src="https://github.com/LeoPits/OCR-Dotted-Matrix/blob/main/Image_readme/A_0.png" width=30% height=30%>
  <img src="https://github.com/LeoPits/OCR-Dotted-Matrix/blob/main/Image_readme/B_9.png" width=30% height=30%>
 </p>
 
 
 ## TEXT DETECTION wiht CRAFT (Character-Region Awareness For Text detection)
-https://github.com/clovaai/CRAFT-pytorch/blob/master/README.md#craft-character-region-awareness-for-text-detection
+
+I preprocessed the images with OpenCV function for enhanced the text detection with CRAFT with (https://github.com/clovaai/CRAFT-pytorch/blob/master/README.md#craft-character-region-awareness-for-text-detection). 
+I use a pre-train network ( the weights are available on this link https://drive.google.com/file/d/1Jk4eGD7crsqCCg9C9VjCLkMN3ze8kutZ/view).
 
 
 Images example:
 <p float="left">
- <img src="https://github.com/LeoPits/OCR-Dotted-Matrix/blob/main/Image_readme/result_CRAFT/res_preprocessed.jpg" width=30% height=30%>
+ <img src="https://github.com/LeoPits/OCR-Dotted-Matrix/blob/main/Image_readme/result_CRAFT/res_preprocessed.jpg" width=30% height=30% >
  <img src="https://github.com/LeoPits/OCR-Dotted-Matrix/blob/main/Image_readme/result_CRAFT/res_preprocessed_mask.jpg" width=50% height=50%>
 </p>
-
-
 
 
 
