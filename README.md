@@ -13,11 +13,12 @@ Images example:
 
 ## TEXT DETECTION wiht CRAFT (Character-Region Awareness For Text detection)
 
-I preprocessed the images with OpenCV function for enhanced the text detection with CRAFT with (https://github.com/clovaai/CRAFT-pytorch/blob/master/README.md#craft-character-region-awareness-for-text-detection). 
-I use a pre-train network ( the weights are available on this link https://drive.google.com/file/d/1Jk4eGD7crsqCCg9C9VjCLkMN3ze8kutZ/view).
+The code preprocessed the images with OpenCV function for enhanced the text detection with CRAFT with (https://github.com/clovaai/CRAFT-pytorch/blob/master/README.md#craft-character-region-awareness-for-text-detection). 
+The weights of pre-train network are available on this link https://drive.google.com/file/d/1Jk4eGD7crsqCCg9C9VjCLkMN3ze8kutZ/view.
+The recognize label  is a string of the text, so the CRAFT parameters are set to find a unique block of text. it is possible to change `--text_threshold`,`--low_text` ,`--link_threshold` to have different detection results, but it is necessary to modify the label and recognition method after.
 
 
-Images example:
+Craft result:
 <p float="left">
  <img src="https://github.com/LeoPits/OCR-Dotted-Matrix/blob/main/Image_readme/result_CRAFT/res_preprocessed.jpg" width=30% height=30% >
  <img src="https://github.com/LeoPits/OCR-Dotted-Matrix/blob/main/Image_readme/result_CRAFT/res_preprocessed_mask.jpg" width=50% height=50%>
@@ -26,7 +27,29 @@ Images example:
 
 
 ## TEXT RECOGNITION with TESSERACT 
-https://tesseract-ocr.github.io/
+
+The code extract the area around text on original image and fix the text oriention.
+
+The cropped image example:
+
+<img src="https://github.com/LeoPits/OCR-Dotted-Matrix/blob/main/Image_readme/Preprocess/_original_0.jpg" width=30% height=30% >
+
+Morphology Transformations (OpenCV function)  and rescaling of chars with different parameters are applied to the cropped image.
+
+Pre-process cropped image example:
+
+<p float="left">
+ <img src="https://github.com/LeoPits/OCR-Dotted-Matrix/blob/main/Image_readme/Preprocess/_preprocess_00.jpg" width=30% height=30%>
+ <img src="https://github.com/LeoPits/OCR-Dotted-Matrix/blob/main/Image_readme/Preprocess/_preprocess_140.jpg" width=30% height=30%>
+ <img src="https://github.com/LeoPits/OCR-Dotted-Matrix/blob/main/Image_readme/Preprocess/_preprocess_90.jpg" width=30% height=30%>
+
+</p>
+
+
+I use  Tesseract OCR engine (https://tesseract-ocr.github.io/) with default  page segmentation , the experiments show the LCDDot_FT_500.traineddata performs the best results in this case.
+Two methods are used to control the label:
+* **SequenceMatcher** is a class available in python module named *difflib*. It can be used for comparing pairs of input sequences. with the function *ratio( )* returns the similarity score ( float in [0,1] ) between input strings. It sums the sizes of all matched sequences returned by function.
+* Regular expression
 
 ```
         {
