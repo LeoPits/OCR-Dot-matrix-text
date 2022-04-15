@@ -1,6 +1,32 @@
 # OCR-Dotted-Matrix
 OCR to detect and recognize dot-matrix text written with inkjet-printed on medical PVC bag
 
+* **Run script**
+```
+python test_Image.py  --image [folder path to test images]  --folder_res [folder path to folder result images] --label [string label to check]
+```
+
+
+### Arguments
+
+* `--image`: test image
+* `--label`: label
+* `--folder_res`: folder result
+
+
+* `--trained_model`: pretrained model
+* `--text_threshold`: text confidence threshold
+* `--low_text`: text low-bound score
+* `--link_threshold`: link confidence threshold
+* `--cuda`: use cuda for inference (default:True)
+* `--canvas_size`: max image size for inference
+* `--mag_ratio`: image magnification ratio
+* `--poly`: enable polygon type result
+* `--show_time`: show processing time
+* `--test_folder`: folder path to input images
+* `--refine`: use link refiner for sentense-level dataset
+* `--refiner_model`: pretrained refiner model
+
 
 
 Images example:
@@ -48,9 +74,10 @@ Pre-process cropped image example:
 
 I use  Tesseract OCR engine (https://tesseract-ocr.github.io/) with default  page segmentation , the experiments show the LCDDot_FT_500.traineddata performs the best results in this case.
 Two methods are used to control the label:
-* **SequenceMatcher** is a class available in python module named *difflib*. It can be used for comparing pairs of input sequences. with the function *ratio( )* returns the similarity score ( float in [0,1] ) between input strings. It sums the sizes of all matched sequences returned by function.
-* Regular expression
+* **SequenceMatcher** is a class available in python module named *difflib*. It can be used for comparing pairs of input sequences. With the function *ratio( )* returns the similarity score ( float in [0,1] ) between input strings. It sums the sizes of all matched sequences returned by function.
+* **Regular expression** is a class available in python module named *re*.  The function *re.match()* checks for a match only at the beginning of the string
 
+Saving all result in json file:
 ```
         {
             "Name_original_file": "A_0.png",
@@ -84,34 +111,16 @@ Two methods are used to control the label:
 
 
 
-
-* Run with pretrained model
-``` (with python 3.7)
-python test.py --trained_model=[weightfile] --test_folder=[folder path to test images]
+## Getting started
+### Install dependencies
+#### Requirements
+- PyTorch>=1.9.0
+- torchvision>=0.2.2
+- opencv-python>=4.5.2
+```
+conda env create -f environment.yml
 ```
 
 
-
-The result image and socre maps will be saved to `./result` by default.
-
-### Arguments
-
-* `--image`: test image
-* `--label`: label
-* `--folder_res`: folder result
-
-
-* `--trained_model`: pretrained model
-* `--text_threshold`: text confidence threshold
-* `--low_text`: text low-bound score
-* `--link_threshold`: link confidence threshold
-* `--cuda`: use cuda for inference (default:True)
-* `--canvas_size`: max image size for inference
-* `--mag_ratio`: image magnification ratio
-* `--poly`: enable polygon type result
-* `--show_time`: show processing time
-* `--test_folder`: folder path to input images
-* `--refine`: use link refiner for sentense-level dataset
-* `--refiner_model`: pretrained refiner model
 
 
