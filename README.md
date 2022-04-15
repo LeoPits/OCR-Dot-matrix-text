@@ -75,7 +75,7 @@ Pre-process cropped image example:
 I use  Tesseract OCR engine (https://tesseract-ocr.github.io/) with default  page segmentation , the experiments show the LCDDot_FT_500.traineddata performs the best results in this case.
 Two methods are used to control the label:
 * **SequenceMatcher** is a class available in python module named *difflib*. It can be used for comparing pairs of input sequences. With the function *ratio( )* returns the similarity score ( float in [0,1] ) between input strings. It sums the sizes of all matched sequences returned by function.
-* **Regular expression** is a class available in python module named *re*.  The function *re.match()* checks for a match only at the beginning of the string
+* **Regular expression** is a class available in python module named *re*.  The function *re.match()* checks for a match only at the beginning of the string.
 
 Saving all result in json file:
 ```
