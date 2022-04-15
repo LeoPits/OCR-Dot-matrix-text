@@ -18,3 +18,33 @@ LinkRefiner | CTW1500 | - | Used with the General Model | [Click](https://drive.
 ## TEXT RECOGNITION with TESSERACT 
 https://tesseract-ocr.github.io/
 
+```
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_150.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_160.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X4SCAD.:1625555",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.78,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_170.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+```
