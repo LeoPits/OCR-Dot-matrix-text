@@ -1,0 +1,972 @@
+[
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_original_0.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.0,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_00.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_10.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_100.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_110.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_120.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.0,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_130.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.0,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_140.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_150.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_160.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X4SCAD.:1625555",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.78,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_170.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_180.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_190.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LO:L21X45AD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.89,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_20.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.0,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_200.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.65,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_210.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_220.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_230.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_240.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.0,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_250.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.98,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_260.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_270.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_280.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.0,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_290.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L2145SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.98,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_30.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "W0:1850",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.19,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_300.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X465SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.98,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_310.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_40.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.10-20283",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.96,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_50.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_60.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_70.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.0,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_80.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.0,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_90.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel200.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LTI0:L21X45CAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.88,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel210.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTL21X4S5SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.92,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel2100.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel2110.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:G12SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.85,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel2120.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTOSCAD.",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.57,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel2130.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:.L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.98,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel2140.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:.L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.98,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel2150.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel2160.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel2170.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel2180.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel2190.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "WO:L21XA45:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.74,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel220.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "O:L21X4SAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.86,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel2200.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel2210.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel2220.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel2230.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.86,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel2240.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "21OTTO:L2S2A.::10X456-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.63,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel2250.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel2260.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel2270.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel2280.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTOSCAD.",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.57,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel2290.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO.L21X465SCAD.:10-20283",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.92,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel230.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "J0:84",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.13,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel2300.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21XA45SCAD.-10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.94,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel2310.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.-10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.96,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel240.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2028",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.96,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel250.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel260.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel270.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.0,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel280.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.86,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel290.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel300.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LTI0:L21X45CAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.88,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel310.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTL21X4S5SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.92,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel3100.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel3110.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:G12SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.85,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel3120.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTOSCAD.",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.57,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel3130.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:.L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.98,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel3140.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:.L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.98,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel3150.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel3160.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel3170.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel3180.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel3190.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "WO:L21XA45:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.74,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel320.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "O:L21X4SAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.86,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel3200.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel3210.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel3220.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel3230.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.86,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel3240.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "21OTTO:L2S2A.::10X456-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.63,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel3250.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel3260.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel3270.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel3280.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTOSCAD.",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.57,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel3290.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO.L21X465SCAD.:10-20283",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.92,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel330.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "J0:84",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.13,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel3300.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21XA45SCAD.-10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.94,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel3310.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.-10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.96,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel340.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2028",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.96,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel350.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel360.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel370.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.0,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel380.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 0.86,
+            "LCDDot_FT_500_psm3_bool_re_result": false
+        }
+    ],
+    [
+        {
+            "Name_orginal_file": "A_0.png",
+            "Name_preprocess": "_preprocess_kernel390.jpg",
+            "check_label": "LOTTO:L21X45SCAD.:10-2023",
+            "tesseract_LCDDot_FT_500_psm3_result": "LOTTO:L21X45SCAD.:10-2023",
+            "LCDDot_FT_500_psm3_sequence_matcher_ratio_result": 1.0,
+            "LCDDot_FT_500_psm3_bool_re_result": true
+        }
+    ]
+]
