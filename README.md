@@ -2,8 +2,7 @@
 OCR to detect and recognize dot-matrix text written with inkjet-printed on medical PVC bag
 
 
-
-Images example:
+Example images:
 <p float="left">
  
  <img src="https://github.com/LeoPits/OCR-Dotted-Matrix/blob/main/Image_readme/A_0.png" width=30% height=30%>
@@ -18,7 +17,7 @@ The weights of pre-train network are available on this link https://drive.google
 The recognize label  is a string of the text, so the CRAFT parameters are set to find a unique block of text. it is possible to change `--text_threshold`,`--low_text` ,`--link_threshold` to have different detection results, but it is necessary to modify the label and recognition method after.
 
 
-Craft result:
+Craft results:
 <p float="left">
  <img src="https://github.com/LeoPits/OCR-Dotted-Matrix/blob/main/Image_readme/result_CRAFT/res_preprocessed.jpg" width=30% height=30% >
  <img src="https://github.com/LeoPits/OCR-Dotted-Matrix/blob/main/Image_readme/result_CRAFT/res_preprocessed_mask.jpg" width=50% height=50%>
@@ -30,13 +29,13 @@ Craft result:
 
 The code extract the area around text on original image and fix the text oriention.
 
-The cropped image example:
+The cropped image:
 
 <img src="https://github.com/LeoPits/OCR-Dotted-Matrix/blob/main/Image_readme/Preprocess/_original_0.jpg" width=30% height=30% >
 
 Morphology Transformations (OpenCV function)  and rescaling of chars with different parameters are applied to the cropped image.
 
-Pre-process cropped image example:
+Pre-process cropped image:
 
 <p float="left">
  <img src="https://github.com/LeoPits/OCR-Dotted-Matrix/blob/main/Image_readme/Preprocess/_preprocess_00.jpg" width=30% height=30%>
