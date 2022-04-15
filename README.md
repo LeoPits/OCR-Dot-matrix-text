@@ -3,15 +3,15 @@ OCR to detect and recognize dot-matrix text written with inkjet-printed on medic
 
 * **Run script**
 ```
-python test_Image.py  --image [folder path to test images]  --folder_res [folder path to folder result images] --label [string label to check]
+python Test_Image.py  --image [folder path to test images]  --folder_res [folder path to save result images] --label [string label to check]
 ```
 
 
 ### Arguments
 
-* `--image`: test image
-* `--label`: label
-* `--folder_res`: folder result
+* `--image`: folder path to test images
+* `--label`: string label to check
+* `--folder_res`: folder path to save result images
 
 
 * `--trained_model`: pretrained model
