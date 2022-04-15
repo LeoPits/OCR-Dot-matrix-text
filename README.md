@@ -1,32 +1,6 @@
 # OCR-Dotted-Matrix
 OCR to detect and recognize dot-matrix text written with inkjet-printed on medical PVC bag
 
-* **Run script**
-```
-python Test_Image.py  --image [folder path to test images]  --folder_res [folder path to save result images] --label [string label to check]
-```
-
-
-### Arguments
-
-* `--image`: folder path to test images
-* `--label`: string label to check
-* `--folder_res`: folder path to save result images
-
-
-* `--trained_model`: pretrained model
-* `--text_threshold`: text confidence threshold
-* `--low_text`: text low-bound score
-* `--link_threshold`: link confidence threshold
-* `--cuda`: use cuda for inference (default:True)
-* `--canvas_size`: max image size for inference
-* `--mag_ratio`: image magnification ratio
-* `--poly`: enable polygon type result
-* `--show_time`: show processing time
-* `--test_folder`: folder path to input images
-* `--refine`: use link refiner for sentense-level dataset
-* `--refiner_model`: pretrained refiner model
-
 
 
 Images example:
@@ -39,7 +13,7 @@ Images example:
 
 ## TEXT DETECTION wiht CRAFT (Character-Region Awareness For Text detection)
 
-The code preprocessed the images with OpenCV function for enhanced the text detection with CRAFT with (https://github.com/clovaai/CRAFT-pytorch/blob/master/README.md#craft-character-region-awareness-for-text-detection). 
+The code pre-processes images with the OpenCV function to improve text detection with CRAFT with (https://github.com/clovaai/CRAFT-pytorch/blob/master/README.md#craft-character-region-awareness-for-text-detection)
 The weights of pre-train network are available on this link https://drive.google.com/file/d/1Jk4eGD7crsqCCg9C9VjCLkMN3ze8kutZ/view.
 The recognize label  is a string of the text, so the CRAFT parameters are set to find a unique block of text. it is possible to change `--text_threshold`,`--low_text` ,`--link_threshold` to have different detection results, but it is necessary to modify the label and recognition method after.
 
@@ -120,6 +94,32 @@ Saving all result in json file:
 ```
 conda env create -f environment.yml
 ```
+
+### **Run script**
+```
+python Test_Image.py  --image [folder path to test images]  --folder_res [folder path to save result images] --label [string label to check]
+```
+
+
+### Arguments
+
+* `--image`: folder path to test images
+* `--label`: string label to check
+* `--folder_res`: folder path to save result images
+
+
+* `--trained_model`: pretrained model
+* `--text_threshold`: text confidence threshold
+* `--low_text`: text low-bound score
+* `--link_threshold`: link confidence threshold
+* `--cuda`: use cuda for inference (default:True)
+* `--canvas_size`: max image size for inference
+* `--mag_ratio`: image magnification ratio
+* `--poly`: enable polygon type result
+* `--show_time`: show processing time
+* `--test_folder`: folder path to input images
+* `--refine`: use link refiner for sentense-level dataset
+* `--refiner_model`: pretrained refiner model
 
 
 
